@@ -1,0 +1,691 @@
+2017-11-22 20:51:33,083 - AirwatchRun -INFO - Username Entered.
+2017-11-22 20:51:35,225 - AirwatchRun -INFO - Password Entered.
+2017-11-22 20:51:37,360 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-11-22 20:51:50,332 - AirwatchRun -INFO - Popup dialog appearence is ==> false
+2017-11-22 20:51:56,958 - AirwatchRun -INFO - List view clicked.
+2017-11-22 20:51:59,409 - AirwatchRun -INFO - Asset Number is entered in Search Id Text Box.
+2017-11-22 20:52:04,168 - AirwatchRun -INFO - Asset Number is Clicked.
+2017-11-22 20:52:37,848 - AirwatchRun -INFO - Edit button is Clicked.
+2017-11-22 20:52:51,949 - AirwatchRun -INFO - Values Menu is Clicked.
+2017-11-22 20:52:55,069 - AirwatchRun -INFO - Add Value is Clicked.
+2017-11-22 20:53:00,684 - AirwatchRun -INFO - ZPL is enetred in Add Value Page.
+2017-11-22 20:53:03,190 - AirwatchRun -INFO - ZPL is Added into the CustomAttribute successfully.
+2017-11-22 20:53:22,654 - AirwatchRun -INFO - Final ZPL is added.
+2017-11-22 20:53:26,199 - AirwatchRun -ERROR - An Exception has occured in doAction method --> org.openqa.selenium.WebDriverException: unknown error: Element <a href="#/AirWatch/Menu/Devices/...Management" data-help-id="LifecycleManagement" class="submenu_group_header icon branch expand_right branded-nav-item">Lifecycle</a> is not clickable at point (189, 136). Other element would receive the click: <div id="airwatchcustomattributeadd" class="modal_container edit is-responsive--false animated fadeIn" style="display:block" data-bind="afterHtmlRender: 0">...</div>
+  (Session info: chrome=62.0.3202.94)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 216 milliseconds
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'MUMD20193', ip: '10.207.13.37', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_25'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f), userDataDir=C:\Users\BCHELL~1.COR\AppData\Local\Temp\scoped_dir8068_25514}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=62.0.3202.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 80b7989c5a62daa36cd5ec25bc3ef810
+2017-11-22 21:01:14,557 - AirwatchRun -INFO - Username Entered.
+2017-11-22 21:01:16,699 - AirwatchRun -INFO - Password Entered.
+2017-11-22 21:01:18,849 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-11-22 21:01:31,394 - AirwatchRun -INFO - Popup dialog appearence is ==> false
+2017-11-22 21:01:37,957 - AirwatchRun -INFO - List view clicked.
+2017-11-22 21:01:40,338 - AirwatchRun -INFO - Asset Number is entered in Search Id Text Box.
+2017-11-22 21:01:45,103 - AirwatchRun -INFO - Asset Number is Clicked.
+2017-11-22 21:02:18,497 - AirwatchRun -INFO - Edit button is Clicked.
+2017-11-22 21:02:32,709 - AirwatchRun -INFO - Values Menu is Clicked.
+2017-11-22 21:02:35,706 - AirwatchRun -INFO - Add Value is Clicked.
+2017-11-22 21:02:41,187 - AirwatchRun -INFO - ZPL is enetred in Add Value Page.
+2017-11-22 21:02:43,666 - AirwatchRun -INFO - ZPL is Added into the CustomAttribute successfully.
+2017-11-22 21:03:03,221 - AirwatchRun -INFO - Final ZPL is added.
+2017-11-22 21:03:21,207 - AirwatchRun -INFO - Clicking List View menu.
+2017-11-22 21:03:23,461 - AirwatchRun -INFO - Clicking Enrollment status Menu.
+2017-11-22 21:03:28,616 - AirwatchRun -INFO - Entering ZpL into the Search box
+2017-11-22 21:03:36,885 - AirwatchRun -INFO - Register Device is Clicked.
+2017-11-22 21:03:40,826 - AirwatchRun -INFO - Entering Group Name
+2017-11-22 21:03:50,633 - AirwatchRun -INFO - ZPL is entered in Serial Number.
+2017-11-22 21:03:53,940 - AirwatchRun -INFO - ZPL is entered in Asset Number.
+2017-11-22 21:03:56,102 - AirwatchRun -INFO - Custom attribute icon is Clicked.
+2017-11-22 21:03:58,272 - AirwatchRun -INFO - Add Icon is Clicked.
+2017-11-22 21:04:00,452 - AirwatchRun -INFO - Add Icon is Clicked.
+2017-11-22 21:04:02,594 - AirwatchRun -INFO - Add Icon is Clicked.
+2017-11-22 21:04:04,169 - AirwatchRun -INFO - Selecting the Country Name in dropdown
+2017-11-22 21:04:09,742 - AirwatchRun -INFO - Selecting the US in dropdown
+2017-11-22 21:04:13,348 - AirwatchRun -INFO - Selecting the Platform in dropdown
+2017-11-22 21:04:18,906 - AirwatchRun -INFO - Selecting the 9000 Value in dropdown
+2017-11-22 21:04:22,298 - AirwatchRun -INFO - Selecting the Asset Number in dropdown
+2017-11-22 21:04:33,800 - AirwatchRun -INFO - Selecting the ZPLNO in dropdown
+2017-11-22 21:04:39,894 - AirwatchRun -INFO - Comparing the DropDown values Wether it is selected Correctly.
+2017-11-22 21:10:00,746 - AirwatchRun -INFO - Comparing ZPL Number.
+2017-11-22 21:10:00,785 - AirwatchRun -INFO - Comparing Registered Text.
+2017-11-22 21:10:00,787 - AirwatchRun -INFO - Successfully Completed the Registration Process!!!
+2017-11-22 21:15:07,476 - AirwatchRun -INFO - Username Entered.
+2017-11-22 21:15:09,662 - AirwatchRun -INFO - Password Entered.
+2017-11-22 21:15:11,846 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-11-22 21:15:24,363 - AirwatchRun -INFO - Popup dialog appearence is ==> false
+2017-11-22 21:15:28,817 - AirwatchRun -INFO - Clicking Enrollment status Menu.
+2017-11-22 21:15:33,851 - AirwatchRun -INFO - Entering ZpL into the Search box
+2017-11-22 21:15:43,836 - AirwatchRun -INFO - List view clicked.
+2017-11-22 21:15:46,276 - AirwatchRun -INFO - Asset Number is entered in Search Id Text Box.
+2017-11-22 21:15:50,562 - AirwatchRun -INFO - Asset Number is Clicked.
+2017-11-22 21:16:23,433 - AirwatchRun -INFO - Edit button is Clicked.
+2017-11-22 21:16:38,207 - AirwatchRun -INFO - Values Menu is Clicked.
+2017-11-22 21:16:41,184 - AirwatchRun -INFO - Add Value is Clicked.
+2017-11-22 21:16:46,589 - AirwatchRun -INFO - ZPL is enetred in Add Value Page.
+2017-11-22 21:16:49,003 - AirwatchRun -INFO - ZPL is Added into the CustomAttribute successfully.
+2017-11-22 21:17:08,441 - AirwatchRun -INFO - Final ZPL is added.
+2017-11-22 21:17:28,230 - AirwatchRun -INFO - Clicking List View menu.
+2017-11-22 21:17:30,461 - AirwatchRun -INFO - Clicking Enrollment status Menu.
+2017-11-22 21:17:35,464 - AirwatchRun -INFO - Register Device is Clicked.
+2017-11-22 21:17:40,434 - AirwatchRun -INFO - Entering Group Name
+2017-11-22 21:17:50,259 - AirwatchRun -INFO - ZPL is entered in Serial Number.
+2017-11-22 21:17:53,561 - AirwatchRun -INFO - ZPL is entered in Asset Number.
+2017-11-22 21:17:55,728 - AirwatchRun -INFO - Custom attribute icon is Clicked.
+2017-11-22 21:21:37,396 - AirwatchRun -INFO - Username Entered.
+2017-11-22 21:21:39,554 - AirwatchRun -INFO - Password Entered.
+2017-11-22 21:21:41,692 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-11-22 21:21:54,845 - AirwatchRun -INFO - Popup dialog appearence is ==> false
+2017-11-22 21:21:59,277 - AirwatchRun -INFO - Clicking Enrollment status Menu.
+2017-11-22 21:22:04,535 - AirwatchRun -INFO - Entering ZpL into the Search box
+2017-11-22 21:22:14,387 - AirwatchRun -INFO - List view clicked.
+2017-11-22 21:22:16,789 - AirwatchRun -INFO - Asset Number is entered in Search Id Text Box.
+2017-11-22 21:22:21,020 - AirwatchRun -INFO - Asset Number is Clicked.
+2017-11-22 21:22:55,607 - AirwatchRun -INFO - Edit button is Clicked.
+2017-11-22 21:23:10,118 - AirwatchRun -INFO - Values Menu is Clicked.
+2017-11-22 21:23:13,196 - AirwatchRun -INFO - Add Value is Clicked.
+2017-11-22 21:23:18,651 - AirwatchRun -INFO - ZPL is enetred in Add Value Page.
+2017-11-22 21:23:21,146 - AirwatchRun -INFO - ZPL is Added into the CustomAttribute successfully.
+2017-11-22 21:23:45,562 - AirwatchRun -INFO - Final ZPL is added.
+2017-11-22 21:24:01,763 - AirwatchRun -ERROR - An Exception has occured in doAction method --> org.openqa.selenium.WebDriverException: unknown error: Element <a href="#/AirWatch/Menu/Devices/...Management" data-help-id="LifecycleManagement" class="submenu_group_header icon branch expand_right branded-nav-item">Lifecycle</a> is not clickable at point (189, 104). Other element would receive the click: <div id="airwatchcustomattributeadd" class="modal_container edit is-responsive--false animated fadeOut" style="display:block" data-bind="afterHtmlRender: 0">...</div>
+  (Session info: chrome=62.0.3202.94)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 183 milliseconds
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'MUMD20193', ip: '10.207.13.37', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_25'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f), userDataDir=C:\Users\BCHELL~1.COR\AppData\Local\Temp\scoped_dir4456_7470}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=62.0.3202.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 0f41d99bac1072e9d1ceebc38170b43f
+2017-11-22 21:28:05,401 - AirwatchRun -INFO - Username Entered.
+2017-11-22 21:28:07,546 - AirwatchRun -INFO - Password Entered.
+2017-11-22 21:28:09,684 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-11-22 21:28:23,084 - AirwatchRun -INFO - Popup dialog appearence is ==> false
+2017-11-22 21:28:27,532 - AirwatchRun -INFO - Clicking Enrollment status Menu.
+2017-11-22 21:28:32,717 - AirwatchRun -INFO - Entering ZpL into the Search box
+2017-11-22 21:28:45,433 - AirwatchRun -INFO - Checking Wether ZPL Is Already Enrolled or not in the Console
+2017-11-22 21:28:45,438 - AirwatchRun -INFO - ZPL number Already Exists !!!!!
+2017-11-22 21:28:45,438 - AirwatchRun -INFO - Terminating the script!!!!
+2017-11-22 21:29:34,497 - AirwatchRun -INFO - Username Entered.
+2017-11-22 21:29:36,632 - AirwatchRun -INFO - Password Entered.
+2017-11-22 21:29:38,793 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-11-22 21:29:52,194 - AirwatchRun -INFO - Popup dialog appearence is ==> false
+2017-11-22 21:29:56,537 - AirwatchRun -INFO - Clicking Enrollment status Menu.
+2017-11-22 21:30:01,963 - AirwatchRun -INFO - Entering ZpL into the Search box
+2017-11-22 21:30:05,930 - AirwatchRun -INFO - Checking Wether ZPL Is Already Enrolled or not in the Console
+2017-11-22 21:30:05,930 - AirwatchRun -INFO - ZPL Number is Unused not Enrolled.
+2017-11-22 21:30:12,298 - AirwatchRun -INFO - List view clicked.
+2017-11-22 21:30:14,669 - AirwatchRun -INFO - Asset Number is entered in Search Id Text Box.
+2017-11-22 21:30:18,846 - AirwatchRun -INFO - Asset Number is Clicked.
+2017-11-22 21:30:52,275 - AirwatchRun -INFO - Edit button is Clicked.
+2017-11-22 21:31:07,210 - AirwatchRun -INFO - Values Menu is Clicked.
+2017-11-22 21:31:10,204 - AirwatchRun -INFO - Add Value is Clicked.
+2017-11-22 21:31:15,575 - AirwatchRun -INFO - ZPL is enetred in Add Value Page.
+2017-11-22 21:31:18,040 - AirwatchRun -INFO - ZPL is Added into the CustomAttribute successfully.
+2017-11-22 21:31:37,315 - AirwatchRun -INFO - Final ZPL is added.
+2017-11-22 21:32:02,924 - AirwatchRun -INFO - Clicking List View menu.
+2017-11-22 21:32:05,180 - AirwatchRun -INFO - Clicking Enrollment status Menu.
+2017-11-22 21:32:10,107 - AirwatchRun -INFO - Register Device is Clicked.
+2017-11-22 21:32:15,814 - AirwatchRun -INFO - Entering Group Name
+2017-11-22 21:32:25,699 - AirwatchRun -INFO - ZPL is entered in Serial Number.
+2017-11-22 21:32:28,969 - AirwatchRun -INFO - ZPL is entered in Asset Number.
+2017-11-22 21:32:31,134 - AirwatchRun -INFO - Custom attribute icon is Clicked.
+2017-11-22 21:32:33,333 - AirwatchRun -INFO - Add Icon is Clicked.
+2017-11-22 21:32:35,484 - AirwatchRun -INFO - Add Icon is Clicked.
+2017-11-22 21:32:37,631 - AirwatchRun -INFO - Add Icon is Clicked.
+2017-11-22 21:32:39,280 - AirwatchRun -INFO - Selecting the Country Name in dropdown
+2017-11-22 21:32:44,731 - AirwatchRun -INFO - Selecting the US in dropdown
+2017-11-22 21:32:48,639 - AirwatchRun -INFO - Selecting the Platform in dropdown
+2017-11-22 21:32:53,697 - AirwatchRun -INFO - Selecting the 9000 Value in dropdown
+2017-11-22 21:32:57,217 - AirwatchRun -INFO - Selecting the Asset Number in dropdown
+2017-11-22 21:33:08,112 - AirwatchRun -INFO - Selecting the ZPLNO in dropdown
+2017-11-22 21:33:14,308 - AirwatchRun -INFO - Comparing the DropDown values Wether it is selected Correctly.
+2017-11-22 21:38:48,296 - AirwatchRun -INFO - Comparing ZPL Number.
+2017-11-22 21:38:48,444 - AirwatchRun -INFO - Comparing Registered Text.
+2017-11-22 21:38:48,472 - AirwatchRun -INFO - Successfully Completed the Registration Process!!!
+2017-12-21 10:36:18,940 - AirwatchRun -ERROR - An Exception has occured while reading the contents from Enrollment_number.txt file --> 
+File 'D:\WorkSpace_Selinum\req\Enrollment_number.txt' does not exist
+2017-12-21 10:37:33,603 - AirwatchRun -ERROR - An Exception has occured while reading the contents from Enrollment_number.txt file --> 
+File 'D:\WorkSpace_Selinum\req\Enrollment_number.txt' does not exist
+2017-12-21 10:43:04,382 - AirwatchRun -INFO - Username Entered.
+2017-12-21 10:43:06,711 - AirwatchRun -INFO - Password Entered.
+2017-12-21 10:43:09,055 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-12-21 10:43:24,511 - AirwatchRun -INFO - Popup dialog appearence is ==> false
+2017-12-21 10:43:28,986 - AirwatchRun -INFO - Clicking Enrollment status Menu.
+2017-12-21 10:43:34,748 - AirwatchRun -INFO - Entering ZpL into the Search box
+2017-12-21 10:43:37,674 - AirwatchRun -INFO - Checking Wether ZPL Is Already Enrolled or not in the Console
+2017-12-21 10:43:37,674 - AirwatchRun -INFO - ZPL Number is Unused not Enrolled.
+2017-12-21 10:43:44,046 - AirwatchRun -INFO - List view clicked.
+2017-12-21 10:43:46,906 - AirwatchRun -INFO - Asset Number is entered in Search Id Text Box.
+2017-12-21 10:43:51,320 - AirwatchRun -INFO - Asset Number is Clicked.
+2017-12-21 10:44:49,187 - AirwatchRun -INFO - Edit button is Clicked.
+2017-12-21 10:45:19,566 - AirwatchRun -INFO - Values Menu is Clicked.
+2017-12-21 10:45:22,365 - AirwatchRun -INFO - Add Value is Clicked.
+2017-12-21 10:45:27,738 - AirwatchRun -INFO - ZPL is enetred in Add Value Page.
+2017-12-21 10:45:30,141 - AirwatchRun -INFO - ZPL is Added into the CustomAttribute successfully.
+2017-12-21 10:45:40,055 - AirwatchRun -INFO - Final ZPL is added.
+2017-12-21 10:46:03,873 - AirwatchRun -INFO - Clicking List View menu.
+2017-12-21 10:46:06,118 - AirwatchRun -INFO - Clicking Enrollment status Menu.
+2017-12-21 10:46:11,031 - AirwatchRun -INFO - Register Device is Clicked.
+2017-12-21 10:46:16,312 - AirwatchRun -INFO - Entering Group Name
+2017-12-21 10:46:26,090 - AirwatchRun -INFO - ZPL is entered in Serial Number.
+2017-12-21 10:46:29,381 - AirwatchRun -INFO - ZPL is entered in Asset Number.
+2017-12-21 10:46:31,536 - AirwatchRun -INFO - Custom attribute icon is Clicked.
+2017-12-21 10:46:33,720 - AirwatchRun -INFO - Add Icon is Clicked.
+2017-12-21 10:46:35,883 - AirwatchRun -INFO - Add Icon is Clicked.
+2017-12-21 10:46:38,061 - AirwatchRun -INFO - Add Icon is Clicked.
+2017-12-21 10:46:43,698 - AirwatchRun -INFO - Selecting the Country Name in dropdown
+2017-12-21 10:46:47,060 - AirwatchRun -INFO - Selecting the US in dropdown
+2017-12-21 10:46:53,781 - AirwatchRun -INFO - Selecting the Platform in dropdown
+2017-12-21 10:46:57,010 - AirwatchRun -INFO - Selecting the 9000 Value in dropdown
+2017-12-21 10:47:01,643 - AirwatchRun -INFO - Selecting the Asset Number in dropdown
+2017-12-21 10:47:15,184 - AirwatchRun -INFO - Selecting the ZPLNO in dropdown
+2017-12-21 10:47:19,127 - AirwatchRun -INFO - Comparing the DropDown values Wether it is selected Correctly.
+2017-12-21 10:47:19,242 - AirwatchRun -INFO - Customattribute Dropdown value is not equal for either Country or Platform or Assetnumber ...
+2017-12-21 10:47:19,243 - AirwatchRun -INFO - Terminating the Program.
+2017-12-21 10:47:42,146 - AirwatchRun -INFO - Username Entered.
+2017-12-21 10:47:44,312 - AirwatchRun -INFO - Password Entered.
+2017-12-21 10:47:46,432 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-12-21 10:48:02,068 - AirwatchRun -INFO - Popup dialog appearence is ==> false
+2017-12-21 10:48:06,417 - AirwatchRun -INFO - Clicking Enrollment status Menu.
+2017-12-21 10:48:12,148 - AirwatchRun -INFO - Entering ZpL into the Search box
+2017-12-21 10:48:15,476 - AirwatchRun -INFO - Checking Wether ZPL Is Already Enrolled or not in the Console
+2017-12-21 10:48:15,477 - AirwatchRun -INFO - ZPL Number is Unused not Enrolled.
+2017-12-21 10:48:21,869 - AirwatchRun -INFO - List view clicked.
+2017-12-21 10:48:24,174 - AirwatchRun -INFO - Asset Number is entered in Search Id Text Box.
+2017-12-21 10:48:28,552 - AirwatchRun -INFO - Asset Number is Clicked.
+2017-12-21 10:49:26,250 - AirwatchRun -INFO - Edit button is Clicked.
+2017-12-21 10:49:54,999 - AirwatchRun -INFO - Values Menu is Clicked.
+2017-12-21 10:49:57,770 - AirwatchRun -INFO - Add Value is Clicked.
+2017-12-21 10:50:02,641 - AirwatchRun -INFO - ZPL is enetred in Add Value Page.
+2017-12-21 10:50:05,001 - AirwatchRun -INFO - ZPL is Added into the CustomAttribute successfully.
+2017-12-21 10:50:12,051 - AirwatchRun -INFO - Final ZPL is added.
+2017-12-21 10:50:30,325 - AirwatchRun -INFO - Clicking List View menu.
+2017-12-21 10:50:32,548 - AirwatchRun -INFO - Clicking Enrollment status Menu.
+2017-12-21 10:50:37,390 - AirwatchRun -INFO - Register Device is Clicked.
+2017-12-21 10:50:41,888 - AirwatchRun -INFO - Entering Group Name
+2017-12-21 10:50:51,538 - AirwatchRun -INFO - ZPL is entered in Serial Number.
+2017-12-21 10:50:54,812 - AirwatchRun -INFO - ZPL is entered in Asset Number.
+2017-12-21 10:50:56,946 - AirwatchRun -INFO - Custom attribute icon is Clicked.
+2017-12-21 10:50:59,113 - AirwatchRun -INFO - Add Icon is Clicked.
+2017-12-21 10:51:01,236 - AirwatchRun -INFO - Add Icon is Clicked.
+2017-12-21 10:51:03,379 - AirwatchRun -INFO - Add Icon is Clicked.
+2017-12-21 10:51:08,932 - AirwatchRun -INFO - Selecting the Country Name in dropdown
+2017-12-21 10:51:12,240 - AirwatchRun -INFO - Selecting the US in dropdown
+2017-12-21 10:51:19,403 - AirwatchRun -INFO - Selecting the Platform in dropdown
+2017-12-21 10:51:22,592 - AirwatchRun -INFO - Selecting the 9000 Value in dropdown
+2017-12-21 10:51:27,621 - AirwatchRun -INFO - Selecting the Asset Number in dropdown
+2017-12-21 10:53:52,678 - AirwatchRun -INFO - Username Entered.
+2017-12-21 10:53:54,790 - AirwatchRun -INFO - Password Entered.
+2017-12-21 10:53:56,914 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-12-21 10:54:12,861 - AirwatchRun -INFO - Popup dialog appearence is ==> false
+2017-12-21 10:54:15,076 - AirwatchRun -INFO - Clicking List View menu.
+2017-12-21 10:54:17,287 - AirwatchRun -INFO - Clicking Enrollment status Menu.
+2017-12-21 10:54:24,303 - AirwatchRun -INFO - Register Device is Clicked.
+2017-12-21 10:54:29,236 - AirwatchRun -INFO - Entering Group Name
+2017-12-21 10:54:39,166 - AirwatchRun -INFO - ZPL is entered in Serial Number.
+2017-12-21 10:54:42,482 - AirwatchRun -INFO - ZPL is entered in Asset Number.
+2017-12-21 10:54:44,654 - AirwatchRun -INFO - Custom attribute icon is Clicked.
+2017-12-21 10:54:46,862 - AirwatchRun -INFO - Add Icon is Clicked.
+2017-12-21 10:54:48,989 - AirwatchRun -INFO - Add Icon is Clicked.
+2017-12-21 10:54:51,126 - AirwatchRun -INFO - Add Icon is Clicked.
+2017-12-21 10:54:56,682 - AirwatchRun -INFO - Selecting the Country Name in dropdown
+2017-12-21 10:54:59,877 - AirwatchRun -INFO - Selecting the US in dropdown
+2017-12-21 10:56:33,896 - AirwatchRun -INFO - Username Entered.
+2017-12-21 10:56:36,044 - AirwatchRun -INFO - Password Entered.
+2017-12-21 10:56:38,174 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-12-21 10:56:53,449 - AirwatchRun -INFO - Popup dialog appearence is ==> false
+2017-12-21 10:56:55,644 - AirwatchRun -INFO - Clicking List View menu.
+2017-12-21 10:56:57,867 - AirwatchRun -INFO - Clicking Enrollment status Menu.
+2017-12-21 10:57:22,934 - AirwatchRun -INFO - Register Device is Clicked.
+2017-12-21 10:57:28,482 - AirwatchRun -INFO - Entering Group Name
+2017-12-21 10:57:38,431 - AirwatchRun -INFO - ZPL is entered in Serial Number.
+2017-12-21 10:57:41,719 - AirwatchRun -INFO - ZPL is entered in Asset Number.
+2017-12-21 10:57:43,832 - AirwatchRun -INFO - Custom attribute icon is Clicked.
+2017-12-21 10:57:46,020 - AirwatchRun -INFO - Add Icon is Clicked.
+2017-12-21 10:57:48,148 - AirwatchRun -INFO - Add Icon is Clicked.
+2017-12-21 10:57:50,283 - AirwatchRun -INFO - Add Icon is Clicked.
+2017-12-21 10:57:55,867 - AirwatchRun -INFO - Selecting the Country Name in dropdown
+2017-12-21 10:58:01,203 - AirwatchRun -INFO - Selecting the US in dropdown
+2017-12-21 10:58:06,770 - AirwatchRun -INFO - Selecting the Platform in dropdown
+2017-12-21 10:58:12,132 - AirwatchRun -INFO - Selecting the 9000 Value in dropdown
+2017-12-21 10:58:15,581 - AirwatchRun -INFO - Selecting the Asset Number in dropdown
+2017-12-21 16:56:28,984 - AirwatchRun -INFO - Username Entered.
+2017-12-21 16:56:31,164 - AirwatchRun -INFO - Password Entered.
+2017-12-21 16:56:33,279 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-12-21 16:56:49,461 - AirwatchRun -INFO - Popup dialog appearence is ==> false
+2017-12-21 16:56:53,883 - AirwatchRun -INFO - Clicking Enrollment status Menu.
+2017-12-21 16:57:00,944 - AirwatchRun -INFO - Entering ZpL into the Search box
+2017-12-21 16:57:04,372 - AirwatchRun -INFO - Checking Wether ZPL Is Already Enrolled or not in the Console
+2017-12-21 16:57:04,372 - AirwatchRun -INFO - ZPL Number is Unused not Enrolled.
+2017-12-21 16:57:10,796 - AirwatchRun -INFO - List view clicked.
+2017-12-21 16:57:13,084 - AirwatchRun -INFO - Asset Number is entered in Search Id Text Box.
+2017-12-21 16:57:17,883 - AirwatchRun -INFO - Asset Number is Clicked.
+2017-12-21 16:58:13,969 - AirwatchRun -INFO - Edit button is Clicked.
+2017-12-21 16:58:42,819 - AirwatchRun -INFO - Values Menu is Clicked.
+2017-12-21 16:58:45,647 - AirwatchRun -INFO - Add Value is Clicked.
+2017-12-21 16:58:50,534 - AirwatchRun -INFO - ZPL is enetred in Add Value Page.
+2017-12-21 16:58:52,916 - AirwatchRun -INFO - ZPL is Added into the CustomAttribute successfully.
+2017-12-21 16:59:03,051 - AirwatchRun -INFO - Final ZPL is added.
+2017-12-21 16:59:20,737 - AirwatchRun -ERROR - An Exception has occured in doAction method --> org.openqa.selenium.WebDriverException: unknown error: Element <a href="#/AirWatch/Menu/Devices/...Management" data-help-id="LifecycleManagement" class="submenu_group_header icon branch expand_right branded-nav-item">Lifecycle</a> is not clickable at point (198, 136). Other element would receive the click: <div id="airwatchcustomattributeadd" class="modal_container edit is-responsive--false animated fadeIn" style="display:block" data-bind="afterHtmlRender: 0">...</div>
+  (Session info: chrome=63.0.3239.84)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 194 milliseconds
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'MUMD20193', ip: '10.207.13.37', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_25'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f), userDataDir=C:\Users\BCHELL~1.COR\AppData\Local\Temp\scoped_dir3576_30749}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=63.0.3239.84, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: c29a09e776ffb6207f2f8880f16f4f81
+2017-12-21 17:12:56,381 - AirwatchRun -INFO - Username Entered.
+2017-12-21 17:12:58,517 - AirwatchRun -INFO - Password Entered.
+2017-12-21 17:13:00,667 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-12-21 17:13:13,315 - AirwatchRun -INFO - Popup dialog appearence is ==> false
+2017-12-21 17:13:17,801 - AirwatchRun -INFO - Clicking Enrollment status Menu.
+2017-12-21 17:13:23,190 - AirwatchRun -INFO - Entering ZpL into the Search box
+2017-12-21 17:13:26,585 - AirwatchRun -INFO - Checking Wether ZPL Is Already Enrolled or not in the Console
+2017-12-21 17:13:26,585 - AirwatchRun -INFO - ZPL Number is Unused not Enrolled.
+2017-12-21 17:13:33,063 - AirwatchRun -INFO - List view clicked.
+2017-12-21 17:13:35,388 - AirwatchRun -INFO - Asset Number is entered in Search Id Text Box.
+2017-12-21 17:13:40,233 - AirwatchRun -INFO - Asset Number is Clicked.
+2017-12-21 17:14:20,412 - AirwatchRun -INFO - Edit button is Clicked.
+2017-12-21 17:14:34,187 - AirwatchRun -INFO - Values Menu is Clicked.
+2017-12-21 17:14:36,966 - AirwatchRun -INFO - Add Value is Clicked.
+2017-12-21 17:14:42,282 - AirwatchRun -INFO - ZPL is enetred in Add Value Page.
+2017-12-21 17:14:44,726 - AirwatchRun -INFO - ZPL is Added into the CustomAttribute successfully.
+2017-12-21 17:15:03,814 - AirwatchRun -INFO - Final ZPL is added.
+2017-12-21 17:15:07,419 - AirwatchRun -ERROR - An Exception has occured in doAction method --> org.openqa.selenium.WebDriverException: unknown error: Element <a href="#/AirWatch/Menu/Devices/...Management" data-help-id="LifecycleManagement" class="submenu_group_header icon branch expand_right branded-nav-item">Lifecycle</a> is not clickable at point (198, 136). Other element would receive the click: <div id="airwatchcustomattributeadd" class="modal_container edit is-responsive--false animated fadeIn" style="display:block" data-bind="afterHtmlRender: 0">...</div>
+  (Session info: chrome=63.0.3239.84)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 207 milliseconds
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'MUMD20193', ip: '10.207.13.37', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_25'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f), userDataDir=C:\Users\BCHELL~1.COR\AppData\Local\Temp\scoped_dir9624_18123}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=63.0.3239.84, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 237636426e900b9fe923a5cd394b9ae9
+2017-12-21 17:19:04,458 - AirwatchRun -INFO - Username Entered.
+2017-12-21 17:19:06,605 - AirwatchRun -INFO - Password Entered.
+2017-12-21 17:19:08,740 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-12-21 17:19:21,197 - AirwatchRun -INFO - Popup dialog appearence is ==> false
+2017-12-21 17:19:25,654 - AirwatchRun -INFO - Clicking Enrollment status Menu.
+2017-12-21 17:19:31,662 - AirwatchRun -INFO - Entering ZpL into the Search box
+2017-12-21 17:19:35,689 - AirwatchRun -INFO - Checking Wether ZPL Is Already Enrolled or not in the Console
+2017-12-21 17:19:35,689 - AirwatchRun -INFO - ZPL Number is Unused not Enrolled.
+2017-12-21 17:19:42,101 - AirwatchRun -INFO - List view clicked.
+2017-12-21 17:19:44,452 - AirwatchRun -INFO - Asset Number is entered in Search Id Text Box.
+2017-12-21 17:19:48,606 - AirwatchRun -INFO - Asset Number is Clicked.
+2017-12-21 17:20:30,165 - AirwatchRun -INFO - Edit button is Clicked.
+2017-12-21 17:20:43,369 - AirwatchRun -INFO - Values Menu is Clicked.
+2017-12-21 17:20:46,148 - AirwatchRun -INFO - Add Value is Clicked.
+2017-12-21 17:20:51,565 - AirwatchRun -INFO - ZPL is enetred in Add Value Page.
+2017-12-21 17:20:53,909 - AirwatchRun -INFO - ZPL is Added into the CustomAttribute successfully.
+2017-12-21 17:21:12,650 - AirwatchRun -INFO - Final ZPL is added.
+2017-12-21 17:21:16,134 - AirwatchRun -ERROR - An Exception has occured in doAction method --> org.openqa.selenium.WebDriverException: unknown error: Element <a href="#/AirWatch/Menu/Devices/...Management" data-help-id="LifecycleManagement" class="submenu_group_header icon branch expand_right branded-nav-item">Lifecycle</a> is not clickable at point (198, 136). Other element would receive the click: <div id="airwatchcustomattributeadd" class="modal_container edit is-responsive--false animated fadeIn" style="display:block" data-bind="afterHtmlRender: 0">...</div>
+  (Session info: chrome=63.0.3239.84)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 154 milliseconds
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'MUMD20193', ip: '10.207.13.37', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_25'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f), userDataDir=C:\Users\BCHELL~1.COR\AppData\Local\Temp\scoped_dir7688_3187}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=63.0.3239.84, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: b595d3242ec66c3645a7ba0fd80dfc2d
+2017-12-21 17:26:36,012 - AirwatchRun -INFO - Username Entered.
+2017-12-21 17:26:38,127 - AirwatchRun -INFO - Password Entered.
+2017-12-21 17:26:40,255 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-12-21 17:26:54,249 - AirwatchRun -INFO - Popup dialog appearence is ==> false
+2017-12-21 17:26:58,623 - AirwatchRun -INFO - Clicking Enrollment status Menu.
+2017-12-21 17:27:04,063 - AirwatchRun -INFO - Entering ZpL into the Search box
+2017-12-21 17:27:06,893 - AirwatchRun -INFO - Checking Wether ZPL Is Already Enrolled or not in the Console
+2017-12-21 17:27:06,894 - AirwatchRun -INFO - ZPL Number is Unused not Enrolled.
+2017-12-21 17:27:13,338 - AirwatchRun -INFO - List view clicked.
+2017-12-21 17:27:15,716 - AirwatchRun -INFO - Asset Number is entered in Search Id Text Box.
+2017-12-21 17:27:20,574 - AirwatchRun -INFO - Asset Number is Clicked.
+2017-12-21 17:28:01,130 - AirwatchRun -INFO - Edit button is Clicked.
+2017-12-21 17:28:14,900 - AirwatchRun -INFO - Values Menu is Clicked.
+2017-12-21 17:28:17,751 - AirwatchRun -INFO - Add Value is Clicked.
+2017-12-21 17:28:22,565 - AirwatchRun -INFO - ZPL is enetred in Add Value Page.
+2017-12-21 17:28:24,931 - AirwatchRun -INFO - ZPL is Added into the CustomAttribute successfully.
+2017-12-21 17:28:34,857 - AirwatchRun -INFO - Final ZPL is added.
+2017-12-21 17:28:42,385 - AirwatchRun -ERROR - An Exception has occured in doAction method --> org.openqa.selenium.WebDriverException: unknown error: Element <a href="#/AirWatch/Menu/Devices/...Management" data-help-id="LifecycleManagement" class="submenu_group_header icon branch expand_right branded-nav-item">Lifecycle</a> is not clickable at point (198, 136). Other element would receive the click: <div id="airwatchcustomattributeadd" class="modal_container edit is-responsive--false animated fadeIn" style="display:block" data-bind="afterHtmlRender: 0">...</div>
+  (Session info: chrome=63.0.3239.84)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 156 milliseconds
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'MUMD20193', ip: '10.207.13.37', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_25'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f), userDataDir=C:\Users\BCHELL~1.COR\AppData\Local\Temp\scoped_dir684_5006}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=63.0.3239.84, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: d5abf0949432640620f37041f6193d47
+2017-12-21 17:39:01,403 - AirwatchRun -INFO - Username Entered.
+2017-12-21 17:39:03,513 - AirwatchRun -INFO - Password Entered.
+2017-12-21 17:39:05,630 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-12-21 17:39:18,302 - AirwatchRun -INFO - Popup dialog appearence is ==> false
+2017-12-21 17:39:22,628 - AirwatchRun -INFO - Clicking Enrollment status Menu.
+2017-12-21 17:39:28,242 - AirwatchRun -INFO - Entering ZpL into the Search box
+2017-12-21 17:39:31,039 - AirwatchRun -INFO - Checking Wether ZPL Is Already Enrolled or not in the Console
+2017-12-21 17:39:31,039 - AirwatchRun -INFO - ZPL Number is Unused not Enrolled.
+2017-12-21 17:39:37,401 - AirwatchRun -INFO - List view clicked.
+2017-12-21 17:39:39,729 - AirwatchRun -INFO - Asset Number is entered in Search Id Text Box.
+2017-12-21 17:39:43,888 - AirwatchRun -INFO - Asset Number is Clicked.
+2017-12-21 17:40:23,995 - AirwatchRun -INFO - Edit button is Clicked.
+2017-12-21 17:40:37,494 - AirwatchRun -INFO - Values Menu is Clicked.
+2017-12-21 17:40:40,234 - AirwatchRun -INFO - Add Value is Clicked.
+2017-12-21 17:40:45,490 - AirwatchRun -INFO - ZPL is enetred in Add Value Page.
+2017-12-21 17:40:47,934 - AirwatchRun -INFO - ZPL is Added into the CustomAttribute successfully.
+2017-12-21 17:41:07,120 - AirwatchRun -INFO - Final ZPL is added.
+2017-12-21 17:41:28,454 - AirwatchRun -INFO - Clicking List View menu.
+2017-12-21 17:41:30,651 - AirwatchRun -INFO - Clicking Enrollment status Menu.
+2017-12-21 17:42:05,324 - AirwatchRun -INFO - Username Entered.
+2017-12-21 17:42:07,459 - AirwatchRun -INFO - Password Entered.
+2017-12-21 17:42:09,568 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-12-21 17:42:22,373 - AirwatchRun -INFO - Popup dialog appearence is ==> false
+2017-12-21 17:42:26,693 - AirwatchRun -INFO - Clicking Enrollment status Menu.
+2017-12-21 17:42:31,863 - AirwatchRun -INFO - Entering ZpL into the Search box
+2017-12-21 17:42:35,659 - AirwatchRun -INFO - Checking Wether ZPL Is Already Enrolled or not in the Console
+2017-12-21 17:42:35,659 - AirwatchRun -INFO - ZPL Number is Unused not Enrolled.
+2017-12-21 17:42:42,053 - AirwatchRun -INFO - List view clicked.
+2017-12-21 17:42:44,363 - AirwatchRun -INFO - Asset Number is entered in Search Id Text Box.
+2017-12-21 17:42:48,507 - AirwatchRun -INFO - Asset Number is Clicked.
+2017-12-21 17:43:28,529 - AirwatchRun -INFO - Edit button is Clicked.
+2017-12-21 17:43:41,893 - AirwatchRun -INFO - Values Menu is Clicked.
+2017-12-21 17:43:44,613 - AirwatchRun -INFO - Add Value is Clicked.
+2017-12-21 17:43:50,008 - AirwatchRun -INFO - ZPL is enetred in Add Value Page.
+2017-12-21 17:43:52,376 - AirwatchRun -INFO - ZPL is Added into the CustomAttribute successfully.
+2017-12-21 17:44:06,342 - AirwatchRun -INFO - Final ZPL is added.
+2017-12-21 17:44:18,842 - AirwatchRun -INFO - Clicking List View menu.
+2017-12-21 17:44:21,033 - AirwatchRun -INFO - Clicking Enrollment status Menu.
+2017-12-21 17:44:25,859 - AirwatchRun -INFO - Register Device is Clicked.
+2017-12-21 17:44:30,256 - AirwatchRun -INFO - Entering Group Name
+2017-12-21 17:45:30,532 - AirwatchRun -INFO - Username Entered.
+2017-12-21 17:45:32,654 - AirwatchRun -INFO - Password Entered.
+2017-12-21 17:45:34,769 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-12-21 17:45:47,312 - AirwatchRun -INFO - Popup dialog appearence is ==> false
+2017-12-21 17:45:51,714 - AirwatchRun -INFO - Clicking Enrollment status Menu.
+2017-12-21 17:45:57,628 - AirwatchRun -INFO - Entering ZpL into the Search box
+2017-12-21 17:46:01,039 - AirwatchRun -INFO - Checking Wether ZPL Is Already Enrolled or not in the Console
+2017-12-21 17:46:01,039 - AirwatchRun -INFO - ZPL Number is Unused not Enrolled.
+2017-12-21 17:46:07,363 - AirwatchRun -INFO - List view clicked.
+2017-12-21 17:46:09,735 - AirwatchRun -INFO - Asset Number is entered in Search Id Text Box.
+2017-12-21 17:46:14,024 - AirwatchRun -INFO - Asset Number is Clicked.
+2017-12-21 17:46:54,274 - AirwatchRun -INFO - Edit button is Clicked.
+2017-12-21 17:47:07,642 - AirwatchRun -INFO - Values Menu is Clicked.
+2017-12-21 17:47:10,452 - AirwatchRun -INFO - Add Value is Clicked.
+2017-12-21 17:47:15,792 - AirwatchRun -INFO - ZPL is enetred in Add Value Page.
+2017-12-21 17:47:18,128 - AirwatchRun -INFO - ZPL is Added into the CustomAttribute successfully.
+2017-12-21 17:47:36,947 - AirwatchRun -INFO - Final ZPL is added.
+2017-12-21 17:47:59,087 - AirwatchRun -INFO - Clicking List View menu.
+2017-12-21 17:48:01,333 - AirwatchRun -INFO - Clicking Enrollment status Menu.
+2017-12-21 17:48:06,192 - AirwatchRun -INFO - Register Device is Clicked.
+2017-12-21 17:48:23,472 - AirwatchRun -INFO - Username Entered.
+2017-12-21 17:48:25,567 - AirwatchRun -INFO - Password Entered.
+2017-12-21 17:48:27,687 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-12-21 17:48:41,849 - AirwatchRun -INFO - Popup dialog appearence is ==> false
+2017-12-21 17:48:46,131 - AirwatchRun -INFO - Clicking Enrollment status Menu.
+2017-12-21 17:48:51,481 - AirwatchRun -INFO - Entering ZpL into the Search box
+2017-12-21 17:48:54,297 - AirwatchRun -INFO - Checking Wether ZPL Is Already Enrolled or not in the Console
+2017-12-21 17:48:54,297 - AirwatchRun -INFO - ZPL Number is Unused not Enrolled.
+2017-12-21 17:49:00,675 - AirwatchRun -INFO - List view clicked.
+2017-12-21 17:49:03,019 - AirwatchRun -INFO - Asset Number is entered in Search Id Text Box.
+2017-12-21 17:49:07,667 - AirwatchRun -INFO - Asset Number is Clicked.
+2017-12-21 17:49:48,248 - AirwatchRun -INFO - Edit button is Clicked.
+2017-12-21 17:50:02,551 - AirwatchRun -INFO - Values Menu is Clicked.
+2017-12-21 17:50:05,352 - AirwatchRun -INFO - Add Value is Clicked.
+2017-12-21 17:50:10,048 - AirwatchRun -INFO - ZPL is enetred in Add Value Page.
+2017-12-21 17:50:12,448 - AirwatchRun -INFO - ZPL is Added into the CustomAttribute successfully.
+2017-12-21 17:50:31,488 - AirwatchRun -INFO - Final ZPL is added.
+2017-12-21 17:50:34,656 - AirwatchRun -ERROR - An Exception has occured in doAction method --> org.openqa.selenium.WebDriverException: unknown error: Element <a href="#/AirWatch/Menu/Devices/...Management" data-help-id="LifecycleManagement" class="submenu_group_header icon branch expand_right branded-nav-item">Lifecycle</a> is not clickable at point (198, 136). Other element would receive the click: <div id="airwatchcustomattributeadd" class="modal_container edit is-responsive--false animated fadeIn" style="display:block" data-bind="afterHtmlRender: 0">...</div>
+  (Session info: chrome=63.0.3239.84)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 156 milliseconds
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'MUMD20193', ip: '10.207.13.37', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_25'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f), userDataDir=C:\Users\BCHELL~1.COR\AppData\Local\Temp\scoped_dir8648_27859}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=63.0.3239.84, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: fdc12aff9fc272bfbb8a6f9bddb784cb
+2017-12-21 17:52:50,060 - AirwatchRun -INFO - Username Entered.
+2017-12-21 17:52:52,162 - AirwatchRun -INFO - Password Entered.
+2017-12-21 17:52:54,276 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-12-21 17:53:07,626 - AirwatchRun -INFO - Popup dialog appearence is ==> false
+2017-12-21 17:53:11,982 - AirwatchRun -INFO - Clicking Enrollment status Menu.
+2017-12-21 17:53:17,305 - AirwatchRun -INFO - Entering ZpL into the Search box
+2017-12-21 17:53:20,733 - AirwatchRun -INFO - Checking Wether ZPL Is Already Enrolled or not in the Console
+2017-12-21 17:53:20,733 - AirwatchRun -INFO - ZPL Number is Unused not Enrolled.
+2017-12-21 17:53:27,036 - AirwatchRun -INFO - List view clicked.
+2017-12-21 17:53:29,393 - AirwatchRun -INFO - Asset Number is entered in Search Id Text Box.
+2017-12-21 17:53:33,552 - AirwatchRun -INFO - Asset Number is Clicked.
+2017-12-21 17:54:13,826 - AirwatchRun -INFO - Edit button is Clicked.
+2017-12-21 17:54:27,349 - AirwatchRun -INFO - Values Menu is Clicked.
+2017-12-21 17:54:30,176 - AirwatchRun -INFO - Add Value is Clicked.
+2017-12-21 17:54:35,548 - AirwatchRun -INFO - ZPL is enetred in Add Value Page.
+2017-12-21 17:54:37,936 - AirwatchRun -INFO - ZPL is Added into the CustomAttribute successfully.
+2017-12-21 17:54:56,803 - AirwatchRun -INFO - Save button is Clicked in Custom Attribute.
+2017-12-21 17:55:17,346 - AirwatchRun -INFO - Clicking List View menu.
+2017-12-21 17:55:19,567 - AirwatchRun -INFO - Clicking Enrollment status Menu.
+2017-12-22 09:53:47,343 - AirwatchRun -INFO - Username Entered.
+2017-12-22 09:53:49,632 - AirwatchRun -INFO - Password Entered.
+2017-12-22 09:53:52,553 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-12-22 09:54:05,291 - AirwatchRun -INFO - Popup dialog appearence is ==> false
+2017-12-22 09:54:09,642 - AirwatchRun -INFO - Clicking Enrollment status Menu.
+2017-12-22 09:54:15,149 - AirwatchRun -INFO - Entering ZpL into the Search box
+2017-12-22 09:54:18,001 - AirwatchRun -INFO - Checking Wether ZPL Is Already Enrolled or not in the Console
+2017-12-22 09:54:18,001 - AirwatchRun -INFO - ZPL Number is Unused not Enrolled.
+2017-12-22 09:54:24,342 - AirwatchRun -INFO - List view clicked.
+2017-12-22 09:54:26,695 - AirwatchRun -INFO - Asset Number is entered in Search Id Text Box.
+2017-12-22 09:54:30,925 - AirwatchRun -INFO - Asset Number is Clicked.
+2017-12-22 09:55:11,263 - AirwatchRun -INFO - Edit button is Clicked.
+2017-12-22 09:55:25,034 - AirwatchRun -INFO - Values Menu is Clicked.
+2017-12-22 09:55:27,851 - AirwatchRun -INFO - Add Value is Clicked.
+2017-12-22 09:55:33,147 - AirwatchRun -INFO - ZPL is enetred in Add Value Page.
+2017-12-22 09:55:35,583 - AirwatchRun -INFO - ZPL is Added into the CustomAttribute successfully.
+2017-12-22 09:55:54,549 - AirwatchRun -INFO - Save button is Clicked in Custom Attribute.
+2017-12-22 09:56:24,002 - AirwatchRun -INFO - Clicking List View menu.
+2017-12-22 09:56:26,195 - AirwatchRun -INFO - Clicking Enrollment status Menu.
+2017-12-22 09:56:31,067 - AirwatchRun -INFO - Register Device is Clicked.
+2017-12-22 09:56:35,610 - AirwatchRun -INFO - Entering Group Name
+2017-12-22 09:56:45,381 - AirwatchRun -INFO - ZPL is entered in Serial Number.
+2017-12-22 09:56:48,612 - AirwatchRun -INFO - ZPL is entered in Asset Number.
+2017-12-22 09:56:50,764 - AirwatchRun -INFO - Custom attribute icon is Clicked.
+2017-12-22 09:56:53,052 - AirwatchRun -INFO - Add Icon is Clicked.
+2017-12-22 09:56:55,185 - AirwatchRun -INFO - Add Icon is Clicked.
+2017-12-22 09:56:57,408 - AirwatchRun -INFO - Add Icon is Clicked.
+2017-12-22 09:57:03,193 - AirwatchRun -INFO - Selecting the Country Name in dropdown
+2017-12-22 09:57:06,444 - AirwatchRun -INFO - Selecting the US in dropdown
+2017-12-22 09:57:14,132 - AirwatchRun -INFO - Selecting the Platform in dropdown
+2017-12-22 09:57:17,339 - AirwatchRun -INFO - Selecting the 9000 Value in dropdown
+2017-12-22 09:57:22,380 - AirwatchRun -INFO - Selecting the Asset Number in dropdown
+2017-12-22 09:57:33,461 - AirwatchRun -INFO - Selecting the ZPLNO in dropdown
+2017-12-22 09:57:47,873 - AirwatchRun -ERROR - An Exception has occured in getElement method --> org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"(.//*[@id='Attribute[0]'])[4]"}
+  (Session info: chrome=63.0.3239.84)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'MUMD20193', ip: '10.207.13.37', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_25'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f), userDataDir=C:\Users\BCHELL~1.COR\AppData\Local\Temp\scoped_dir4152_21171}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=63.0.3239.84, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: b9d10db3608d492c324de382f94bc035
+*** Element info: {Using=xpath, value=(.//*[@id='Attribute[0]'])[4]}
+2017-12-22 10:28:29,598 - AirwatchRun -INFO - Username Entered.
+2017-12-22 10:28:31,831 - AirwatchRun -INFO - Password Entered.
+2017-12-22 10:28:42,759 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-12-22 10:28:59,024 - AirwatchRun -INFO - Popup dialog appearence is ==> false
+2017-12-22 10:29:03,580 - AirwatchRun -INFO - Clicking Enrollment status Menu.
+2017-12-22 10:29:10,286 - AirwatchRun -INFO - Entering ZpL into the Search box
+2017-12-22 10:29:13,084 - AirwatchRun -INFO - Checking Wether ZPL Is Already Enrolled or not in the Console
+2017-12-22 10:29:13,084 - AirwatchRun -INFO - ZPL Number is Unused not Enrolled.
+2017-12-22 10:29:19,429 - AirwatchRun -INFO - List view clicked.
+2017-12-22 10:29:21,775 - AirwatchRun -INFO - Asset Number is entered in Search Id Text Box.
+2017-12-22 10:29:26,172 - AirwatchRun -INFO - Asset Number is Clicked.
+2017-12-22 10:30:25,228 - AirwatchRun -INFO - Edit button is Clicked.
+2017-12-22 10:30:40,137 - AirwatchRun -INFO - Values Menu is Clicked.
+2017-12-22 10:30:42,985 - AirwatchRun -INFO - Add Value is Clicked.
+2017-12-22 10:30:48,191 - AirwatchRun -INFO - ZPL is enetred in Add Value Page.
+2017-12-22 10:30:50,585 - AirwatchRun -INFO - ZPL is Added into the CustomAttribute successfully.
+2017-12-22 10:31:00,904 - AirwatchRun -INFO - Save button is Clicked in Custom Attribute.
+2017-12-22 10:31:23,874 - AirwatchRun -INFO - Clicking List View menu.
+2017-12-22 10:31:26,061 - AirwatchRun -INFO - Clicking Enrollment status Menu.
+2017-12-22 10:31:30,913 - AirwatchRun -INFO - Register Device is Clicked.
+2017-12-22 10:31:43,950 - AirwatchRun -INFO - Entering Group Name
+2017-12-22 10:31:53,699 - AirwatchRun -INFO - ZPL is entered in Serial Number.
+2017-12-22 10:31:56,952 - AirwatchRun -INFO - ZPL is entered in Asset Number.
+2017-12-22 10:31:59,061 - AirwatchRun -INFO - Custom attribute icon is Clicked.
+2017-12-22 10:32:01,197 - AirwatchRun -INFO - Add Icon is Clicked.
+2017-12-22 10:32:03,347 - AirwatchRun -INFO - Add Icon is Clicked.
+2017-12-22 10:32:05,499 - AirwatchRun -INFO - Add Icon is Clicked.
+2017-12-22 10:32:07,662 - AirwatchRun -INFO - Add Icon is Clicked.
+2017-12-22 10:32:13,462 - AirwatchRun -INFO - Selecting the Country Name in dropdown
+2017-12-22 10:32:16,916 - AirwatchRun -INFO - Selecting the US in dropdown
+2017-12-22 10:32:24,596 - AirwatchRun -INFO - Selecting the Platform in dropdown
+2017-12-22 10:32:27,900 - AirwatchRun -INFO - Selecting the 9000 Value in dropdown
+2017-12-22 10:32:32,928 - AirwatchRun -INFO - Selecting the Asset Number in dropdown
+2017-12-22 10:32:42,240 - AirwatchRun -INFO - Selecting the ZPLNO in dropdown
+2017-12-22 10:32:51,033 - AirwatchRun -INFO - Selecting the Asset Number in dropdown
+2017-12-22 10:32:59,226 - AirwatchRun -INFO - Selecting the ZPLNO in dropdown
+2017-12-22 10:33:02,929 - AirwatchRun -INFO - Comparing the DropDown values Wether it is selected Correctly.
+2017-12-22 10:33:03,043 - AirwatchRun -INFO - Customattribute Dropdown value is not equal for either Country or Platform or Assetnumber ...
+2017-12-22 10:33:03,044 - AirwatchRun -INFO - Terminating the Program.
+2017-12-22 10:40:01,363 - AirwatchRun -INFO - Username Entered.
+2017-12-22 10:40:03,530 - AirwatchRun -INFO - Password Entered.
+2017-12-22 10:40:05,794 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-12-22 10:40:18,347 - AirwatchRun -INFO - Popup dialog appearence is ==> false
+2017-12-22 10:40:22,680 - AirwatchRun -INFO - Clicking Enrollment status Menu.
+2017-12-22 10:40:28,820 - AirwatchRun -INFO - Entering ZpL into the Search box
+2017-12-22 10:40:32,209 - AirwatchRun -INFO - Checking Wether ZPL Is Already Enrolled or not in the Console
+2017-12-22 10:40:32,209 - AirwatchRun -INFO - ZPL Number is Unused not Enrolled.
+2017-12-22 10:40:38,669 - AirwatchRun -INFO - List view clicked.
+2017-12-22 10:40:41,079 - AirwatchRun -INFO - Asset Number is entered in Search Id Text Box.
+2017-12-22 10:40:45,751 - AirwatchRun -INFO - Asset Number is Clicked.
+2017-12-22 10:41:26,091 - AirwatchRun -INFO - Edit button is Clicked.
+2017-12-22 10:41:40,477 - AirwatchRun -INFO - Values Menu is Clicked.
+2017-12-22 10:41:43,197 - AirwatchRun -INFO - Add Value is Clicked.
+2017-12-22 10:41:48,501 - AirwatchRun -INFO - ZPL is enetred in Add Value Page.
+2017-12-22 10:41:50,912 - AirwatchRun -INFO - ZPL is Added into the CustomAttribute successfully.
+2017-12-22 10:42:09,509 - AirwatchRun -INFO - Save button is Clicked in Custom Attribute.
+2017-12-22 10:42:31,269 - AirwatchRun -INFO - Clicking List View menu.
+2017-12-22 10:42:33,484 - AirwatchRun -INFO - Clicking Enrollment status Menu.
+2017-12-22 10:42:38,373 - AirwatchRun -INFO - Register Device is Clicked.
+2017-12-22 10:42:42,764 - AirwatchRun -INFO - Entering Group Name
+2017-12-22 10:42:52,384 - AirwatchRun -INFO - ZPL is entered in Serial Number.
+2017-12-22 10:42:55,649 - AirwatchRun -INFO - ZPL is entered in Asset Number.
+2017-12-22 10:42:57,837 - AirwatchRun -INFO - Custom attribute icon is Clicked.
+2017-12-22 10:43:00,040 - AirwatchRun -INFO - Add Icon is Clicked.
+2017-12-22 10:43:02,123 - AirwatchRun -INFO - Add Icon is Clicked.
+2017-12-22 10:43:04,227 - AirwatchRun -INFO - Add Icon is Clicked.
+2017-12-22 10:43:06,379 - AirwatchRun -INFO - Add Icon is Clicked.
+2017-12-22 10:43:11,972 - AirwatchRun -INFO - Selecting the Country Name in dropdown
+2017-12-22 10:43:15,189 - AirwatchRun -INFO - Selecting the US in dropdown
+2017-12-22 10:43:22,938 - AirwatchRun -INFO - Selecting the Platform in dropdown
+2017-12-22 10:43:26,191 - AirwatchRun -INFO - Selecting the 9000 Value in dropdown
+2017-12-22 10:43:31,190 - AirwatchRun -INFO - Selecting the Asset Number in dropdown
+2017-12-22 10:43:41,634 - AirwatchRun -INFO - Selecting the ZPLNO in dropdown
+2017-12-22 10:43:50,413 - AirwatchRun -INFO - Selecting the Asset Number in dropdown
+2017-12-22 10:43:58,830 - AirwatchRun -INFO - Selecting the ZPLNO in dropdown
+2017-12-22 10:44:02,127 - AirwatchRun -INFO - Comparing the DropDown values Wether it is selected Correctly.
+2017-12-22 10:44:02,239 - AirwatchRun -INFO - Customattribute Dropdown value is not equal for either Country or Platform or Assetnumber ...
+2017-12-22 10:44:02,239 - AirwatchRun -INFO - Terminating the Program.
+2017-12-22 10:46:18,327 - AirwatchRun -INFO - Username Entered.
+2017-12-22 10:46:20,414 - AirwatchRun -INFO - Password Entered.
+2017-12-22 10:46:22,529 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-12-22 10:46:35,148 - AirwatchRun -INFO - Popup dialog appearence is ==> false
+2017-12-22 10:46:39,543 - AirwatchRun -INFO - Clicking Enrollment status Menu.
+2017-12-22 10:46:45,108 - AirwatchRun -INFO - Entering ZpL into the Search box
+2017-12-22 10:46:48,548 - AirwatchRun -INFO - Checking Wether ZPL Is Already Enrolled or not in the Console
+2017-12-22 10:46:48,549 - AirwatchRun -INFO - ZPL Number is Unused not Enrolled.
+2017-12-22 10:46:54,976 - AirwatchRun -INFO - List view clicked.
+2017-12-22 10:46:57,409 - AirwatchRun -INFO - Asset Number is entered in Search Id Text Box.
+2017-12-22 10:47:01,557 - AirwatchRun -INFO - Asset Number is Clicked.
+2017-12-22 10:47:42,577 - AirwatchRun -INFO - Edit button is Clicked.
+2017-12-22 10:47:56,712 - AirwatchRun -INFO - Values Menu is Clicked.
+2017-12-22 10:47:59,478 - AirwatchRun -INFO - Add Value is Clicked.
+2017-12-22 10:48:04,880 - AirwatchRun -INFO - ZPL is enetred in Add Value Page.
+2017-12-22 10:48:07,226 - AirwatchRun -INFO - ZPL is Added into the CustomAttribute successfully.
+2017-12-22 10:48:17,099 - AirwatchRun -INFO - Save button is Clicked in Custom Attribute.
+2017-12-22 10:48:24,518 - AirwatchRun -ERROR - An Exception has occured in doAction method --> org.openqa.selenium.WebDriverException: unknown error: Element <a href="#/AirWatch/Menu/Devices/...Management" data-help-id="LifecycleManagement" class="submenu_group_header icon branch expand_right branded-nav-item">Lifecycle</a> is not clickable at point (189, 104). Other element would receive the click: <div id="airwatchcustomattributeadd" class="modal_container edit is-responsive--false animated fadeIn" style="display:block" data-bind="afterHtmlRender: 0">...</div>
+  (Session info: chrome=63.0.3239.84)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 156 milliseconds
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'MUMD20193', ip: '10.207.13.37', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_25'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f), userDataDir=C:\Users\BCHELL~1.COR\AppData\Local\Temp\scoped_dir7208_22995}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=63.0.3239.84, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: c855d5dc771e5eb733df65aa6708e62a
+2017-12-22 10:48:55,654 - AirwatchRun -INFO - Username Entered.
+2017-12-22 10:48:57,812 - AirwatchRun -INFO - Password Entered.
+2017-12-22 10:48:59,962 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-12-22 10:49:12,851 - AirwatchRun -INFO - Popup dialog appearence is ==> false
+2017-12-22 10:49:17,277 - AirwatchRun -INFO - Clicking Enrollment status Menu.
+2017-12-22 10:49:22,639 - AirwatchRun -INFO - Entering ZpL into the Search box
+2017-12-22 10:49:26,062 - AirwatchRun -INFO - Checking Wether ZPL Is Already Enrolled or not in the Console
+2017-12-22 10:49:26,063 - AirwatchRun -INFO - ZPL Number is Unused not Enrolled.
+2017-12-22 10:49:32,530 - AirwatchRun -INFO - List view clicked.
+2017-12-22 10:49:34,910 - AirwatchRun -INFO - Asset Number is entered in Search Id Text Box.
+2017-12-22 10:49:39,175 - AirwatchRun -INFO - Asset Number is Clicked.
+2017-12-22 10:50:20,933 - AirwatchRun -INFO - Edit button is Clicked.
+2017-12-22 10:50:35,533 - AirwatchRun -INFO - Values Menu is Clicked.
+2017-12-22 10:50:38,327 - AirwatchRun -INFO - Add Value is Clicked.
+2017-12-22 10:50:43,829 - AirwatchRun -INFO - ZPL is enetred in Add Value Page.
+2017-12-22 10:50:46,221 - AirwatchRun -INFO - ZPL is Added into the CustomAttribute successfully.
+2017-12-22 10:51:05,056 - AirwatchRun -INFO - Save button is Clicked in Custom Attribute.
+2017-12-22 10:51:27,305 - AirwatchRun -INFO - Clicking List View menu.
+2017-12-22 10:51:29,564 - AirwatchRun -INFO - Clicking Enrollment status Menu.
+2017-12-22 10:51:34,551 - AirwatchRun -INFO - Register Device is Clicked.
+2017-12-22 10:51:39,523 - AirwatchRun -INFO - Entering Group Name
+2017-12-22 10:51:49,404 - AirwatchRun -INFO - ZPL is entered in Serial Number.
+2017-12-22 10:51:52,737 - AirwatchRun -INFO - ZPL is entered in Asset Number.
+2017-12-22 10:51:54,899 - AirwatchRun -INFO - Custom attribute icon is Clicked.
+2017-12-22 10:51:57,115 - AirwatchRun -INFO - Add Icon is Clicked.
+2017-12-22 10:51:59,299 - AirwatchRun -INFO - Add Icon is Clicked.
+2017-12-22 10:52:01,495 - AirwatchRun -INFO - Add Icon is Clicked.
+2017-12-22 10:52:03,647 - AirwatchRun -INFO - Add Icon is Clicked.
+2017-12-22 10:52:09,281 - AirwatchRun -INFO - Selecting the Country Name in dropdown
+2017-12-22 10:52:11,509 - AirwatchRun -INFO - Selecting the US in dropdown
+2017-12-22 10:52:14,644 - AirwatchRun -INFO - Selecting the US in dropdown
+2017-12-22 10:52:20,285 - AirwatchRun -INFO - Selecting the Platform in dropdown
+2017-12-22 10:52:22,569 - AirwatchRun -INFO - Selecting the 9000 Value in dropdown
+2017-12-22 10:52:25,697 - AirwatchRun -INFO - Selecting the 9000 Value in dropdown
+2017-12-22 10:52:29,134 - AirwatchRun -INFO - Selecting the Asset Number in dropdown
+2017-12-22 10:52:39,721 - AirwatchRun -INFO - Selecting the ZPLNO in dropdown
+2017-12-22 10:52:48,489 - AirwatchRun -INFO - Selecting the Asset Number in dropdown
+2017-12-22 10:52:56,649 - AirwatchRun -INFO - Selecting the ZPLNO in dropdown
+2017-12-22 10:52:59,767 - AirwatchRun -INFO - Comparing the DropDown values Wether it is selected Correctly.
+2017-12-22 10:56:49,369 - AirwatchRun -INFO - Username Entered.
+2017-12-22 10:56:51,502 - AirwatchRun -INFO - Password Entered.
+2017-12-22 10:56:53,637 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-12-22 10:57:09,299 - AirwatchRun -INFO - Popup dialog appearence is ==> false
+2017-12-22 10:57:13,674 - AirwatchRun -INFO - Clicking Enrollment status Menu.
+2017-12-22 10:57:20,502 - AirwatchRun -INFO - Entering ZpL into the Search box
+2017-12-22 10:57:23,887 - AirwatchRun -INFO - Checking Wether ZPL Is Already Enrolled or not in the Console
+2017-12-22 10:57:23,888 - AirwatchRun -INFO - ZPL Number is Unused not Enrolled.
+2017-12-22 10:57:30,390 - AirwatchRun -INFO - List view clicked.
+2017-12-22 10:57:32,792 - AirwatchRun -INFO - Asset Number is entered in Search Id Text Box.
+2017-12-22 10:57:37,140 - AirwatchRun -INFO - Asset Number is Clicked.
+2017-12-22 10:58:35,014 - AirwatchRun -INFO - Edit button is Clicked.
+2017-12-22 10:59:02,245 - AirwatchRun -INFO - Values Menu is Clicked.
+2017-12-22 10:59:05,040 - AirwatchRun -INFO - Add Value is Clicked.
+2017-12-22 10:59:09,960 - AirwatchRun -INFO - ZPL is enetred in Add Value Page.
+2017-12-22 10:59:12,336 - AirwatchRun -INFO - ZPL is Added into the CustomAttribute successfully.
+2017-12-22 10:59:22,577 - AirwatchRun -INFO - Save button is Clicked in Custom Attribute.
+2017-12-22 10:59:43,019 - AirwatchRun -INFO - Clicking List View menu.
+2017-12-22 10:59:45,288 - AirwatchRun -INFO - Clicking Enrollment status Menu.
+2017-12-22 10:59:50,180 - AirwatchRun -INFO - Register Device is Clicked.
+2017-12-22 10:59:55,139 - AirwatchRun -INFO - Entering Group Name
+2017-12-22 11:00:04,910 - AirwatchRun -INFO - ZPL is entered in Serial Number.
+2017-12-22 11:00:08,212 - AirwatchRun -INFO - ZPL is entered in Asset Number.
+2017-12-22 11:00:10,363 - AirwatchRun -INFO - Custom attribute icon is Clicked.
+2017-12-22 11:00:12,595 - AirwatchRun -INFO - Add Icon is Clicked.
+2017-12-22 11:00:14,821 - AirwatchRun -INFO - Add Icon is Clicked.
+2017-12-22 11:00:16,947 - AirwatchRun -INFO - Add Icon is Clicked.
+2017-12-22 11:00:19,165 - AirwatchRun -INFO - Add Icon is Clicked.
+2017-12-22 11:00:24,794 - AirwatchRun -INFO - Selecting the Country Name in dropdown
+2017-12-22 11:00:30,169 - AirwatchRun -INFO - Selecting the US in dropdown
+2017-12-22 11:00:35,782 - AirwatchRun -INFO - Selecting the Platform in dropdown
+2017-12-22 11:00:41,201 - AirwatchRun -INFO - Selecting the 9000 Value in dropdown
+2017-12-22 11:00:44,779 - AirwatchRun -INFO - Selecting the Asset Number in dropdown
+2017-12-22 11:00:55,469 - AirwatchRun -INFO - Selecting the ZPLNO in dropdown
+2017-12-22 11:01:06,679 - AirwatchRun -INFO - Selecting the Asset Number in dropdown
+2017-12-22 11:01:12,183 - AirwatchRun -INFO - Selecting the ZPLNO in dropdown
+2017-12-22 11:01:15,544 - AirwatchRun -INFO - Comparing the DropDown values Wether it is selected Correctly.
+2017-12-22 11:01:52,872 - AirwatchRun -INFO - Comparing ZPL Number.
+2017-12-22 11:01:52,913 - AirwatchRun -INFO - Comparing Registered Text.
+2017-12-22 11:01:52,915 - AirwatchRun -INFO - Successfully Completed the Registration Process!!!
